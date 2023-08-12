@@ -1,6 +1,7 @@
 {
-  "name": "take-a-break",
-  "displayName": "Take a break",
+  "name": "take-a-break-from-coding",
+  "publisher": "Amjad",
+  "displayName": "Take a break from coding",
   "description": "A reminder to take a break",
   "version": "0.0.1",
   "engines": {
